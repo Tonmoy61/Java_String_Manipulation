@@ -1,4 +1,4 @@
-# Java_String_Manipulation_Problem
+<h1 align="center">Java_String_Manipulation_Problem</h1>
 
 ## :pushpin: Question
 :one: Extract the transaction ID from the HTML body
